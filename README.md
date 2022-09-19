@@ -1,3 +1,3 @@
 # new-repo-github
 
-create a branch to update README and add PROFILE!!!
+Create a branch to update README and add PROFILE!!!
